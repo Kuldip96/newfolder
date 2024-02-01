@@ -4,6 +4,10 @@ int main(){
 
     FILE *ptr;
 
+
+
+
+
     char string[50]="My name is skill";
     
     // ptr=fopen("mytext.txt","r");
